@@ -10,7 +10,7 @@ const ws = new WebSocket(serverAddress, {
 });
 
 ws.on("open", function () {
-  ws.send("Hello from PCamp!");
+  ws.send("Websocket testing!");
 });
 
 ws.on("message", function (msg) {

@@ -1,3 +1,4 @@
+// THIS IS THE CODE ON THE GLITCH
 const WebSocket = require("ws");
 const PORT = 5000;
 
@@ -11,5 +12,4 @@ wsServer.on("connection", function (socket) {
   socket.on("message", function (msg) {
     console.log("Received message" + msg);
   });
-  //wsServer.send("Hello you have been conected!");
 });

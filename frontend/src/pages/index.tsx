@@ -1,9 +1,9 @@
 import Head from "next/head";
-import { Inter } from "next/font/google";
+import { Archivo } from "next/font/google";
 import styles from "@/styles/Home.module.css";
 import Chat from "./components/Chat";
 
-const inter = Inter({ subsets: ["latin"] });
+const inter = Archivo({ subsets: ["latin"] });
 
 export default function Home() {
   return (

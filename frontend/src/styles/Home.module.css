@@ -1,0 +1,46 @@
+.small__text {
+  font-size: 12px;
+  font-weight: 200;
+}
+
+.chat__container {
+  border: 1px solid #3b99ee;
+  border-radius: 0.25rem;
+  position: relative;
+}
+
+.send__text__container {
+  position: relative;
+}
+
+.send__text__container input {
+  width: calc(100% - 2rem);
+  padding: 1rem;
+}
+
+.message__container {
+  padding: 1rem;
+}
+
+.messages {
+  background: #3b99ee;
+  padding: 2rem;
+  width: 50%;
+  border-radius: 1rem;
+  margin: 1rem 0;
+}
+
+.send__text__container button {
+  all: unset;
+
+  position: absolute;
+  right: 0.5rem;
+  top: 0.5rem;
+  background: #3b99ee;
+  border-radius: 50%;
+  height: 2rem;
+  width: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

@@ -1,0 +1,60 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #000000;
+  width: 100vw;
+  height: 100vh;
+  color: #fff;
+}
+
+h1 {
+  font-size: 4rem;
+  font-weight: 700;
+}
+
+h3 {
+  font-size: 2rem;
+  font-weight: 400;
+}
+
+h4 {
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+
+input {
+  all: unset;
+  background: #282938;
+}
+
+.flex {
+  display: flex;
+}
+
+.justify__between {
+  justify-content: space-between;
+}
+
+.align__center {
+  align-items: center;
+}
+
+.p__1 {
+  padding: 0.5rem;
+}
+
+.p__4 {
+  padding: 4rem;
+}
+
+.mt__1 {
+  margin-top: 0.5rem;
+}
+
+.mt__4 {
+  margin-top: 4rem;
+}

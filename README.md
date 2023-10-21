@@ -3,7 +3,8 @@ This is an repo for a simple chat using websocket
 
 # Online website
 ```
-// In progress
+// Frontend - [Frontend](https://websocket-frontend-juliocesardemoraes.vercel.app/)
+// Backend - https://puc-websocket-project.glitch.me/
 ```
 
 # Frontend
@@ -14,7 +15,6 @@ This is an repo for a simple chat using websocket
 1- nextjs
 2- Reactjs
 3- Typescript
-4- ws library
 ```
 
 # Backend

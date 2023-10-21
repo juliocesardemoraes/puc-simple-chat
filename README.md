@@ -3,7 +3,7 @@ This is an repo for a simple chat using websocket
 
 # Online website
 ```
-// Frontend - [Frontend](https://websocket-frontend.vercel.app/)
+// Frontend - https://websocket-frontend.vercel.app/
 // Backend - https://puc-websocket-project.glitch.me/
 ```
 
